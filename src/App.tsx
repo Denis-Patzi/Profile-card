@@ -13,17 +13,19 @@ function App() {
             overflow: 'hidden'
         }}>
             <ProfileCard
-                name="Denis Patzi"
-                title="Systems Engineer Student"
-                handle="Denis-Patzi"
-                status="Open to Work"
-                contactText="Contact Me"
+                name="[Tu Nombre]"
+                title="[Tu Profesión / Carrera]"
+                handle="[usuario]"
+                status="Disponible"
+                contactText="Contactar"
+
                 avatarUrl="/profile10.png"
-                miniAvatarUrl="https://github.com/Denis-Patzi.png"
+                miniAvatarUrl="https://lumiere-a.akamaihd.net/v1/images/character_bighero6_hiro_266dba5d_10da574f.jpeg?region=0,0,450,450"
                 showUserInfo={true}
                 enableTilt={true}
                 enableMobileTilt={false}
-                onContactClick={() => window.open('https://github.com/Denis-Patzi', '_blank')}
+
+                onContactClick={() => window.open('https://github.com/', '_blank')}
                 behindGlowColor="hsla(237, 100%, 70%, 0.6)"
                 behindGlowEnabled={true}
 

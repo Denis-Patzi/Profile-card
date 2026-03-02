@@ -5,7 +5,7 @@ Este repositorio contiene una pequeña aplicación de muestra creada con React, 
 ---
 
 <div align="center">
-  <img src="./public/ej.png" alt="Profile Card Demo" width="90%"/>
+  <img src="./public/preview.png" alt="Profile Card Demo" width="90%"/>
 </div>
 
 ---
